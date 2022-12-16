@@ -3,7 +3,6 @@
  -🔭 Busco minha primeira oportunidade na área de TI como estagiário ou junior.
  <br>
  -🌱 Atualmente estou estudando PHP, java e banco de dados.
- 
  <div align="center">
   <a href="https://github.com/renatoxd152">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoxd152&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -27,5 +26,4 @@
   <a href="https://www.linkedin.com/in/renato-morillo-b91a761b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/renatoxd152/renatoxd152/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
