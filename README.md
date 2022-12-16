@@ -1,8 +1,14 @@
 ### Olá, eu sou o Renato Morillo
 
- -🔭 Busco minha primeira oportunidade na área de TI como estagiário ou junior.
- <br>
- -🌱 Atualmente estou estudando PHP, java e banco de dados.
+<ul>
+ <li>📖 Graduando em Análise e Desenvolvimento de Sistemas.</li>
+ <li>🔭 Busco minha primeira oportunidade na área de TI como estagiário ou junior.</li>
+ <li>🌱 Atualmente estou estudando PHP, java e banco de dados.</li>
+ <li>📖 Estou na área desde 2018 quando começei com um curso técnico de informática</li>
+ <li> 🎮 Gosto muito de jogar,assistir animes e séries</li>
+ <li> 🪐Sempre fui entusiasmado com o estudo do universo e das leis da físicas</>
+ <li> 🍎 Uma frase que eu gosto muito: A maravilhosa disposição e harmonia do universo só pode ter tido origem segundo o plano de um Ser que tudo sabe e tudo pode. Isso fica sendo a minha última e mais elevada descoberta.</li>
+ </ul>
  <div align="center">
   <a href="https://github.com/renatoxd152">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoxd152&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
