@@ -1,7 +1,5 @@
 ### Olá, eu sou o Renato Morillo
-<STYLE TYPE="text/css">
-    BODY {background-color: orange; }
-</STYLE>
+
  -🔭 Busco minha primeira oportunidade na área de TI como estagiário ou junior.
  <br>
  -🌱 Atualmente estou estudando PHP, java e banco de dados.
