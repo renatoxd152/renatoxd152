@@ -2,8 +2,8 @@
 
 <ul>
  <li>📖 Graduando em Análise e Desenvolvimento de Sistemas.</li>
- <li>🔭 Busco minha primeira oportunidade na área de TI como estagiário ou junior.</li>
- <li>🌱 Atualmente estou estudando PHP, java e banco de dados.</li>
+ <li>🔭 Sou estagiário na área de TI como desenvolvedor full stack</li>
+ <li>🌱 Atualmente estou estudando banco de dados Oracle, Springboot.</li>
  <li>📖 Estou na área desde 2018 quando começei com um curso técnico de informática.</li>
  <li> 🎮 Gosto muito de jogar,assistir animes e séries.</li>
  <li> 🪐Sempre fui entusiasmado com o estudo do universo e das leis da físicas.</>
