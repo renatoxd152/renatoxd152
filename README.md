@@ -24,7 +24,6 @@
   <img align="center" alt="Renato-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Renato-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Renato-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Renato-img" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/b6/1f/42/b61f421d3a9c7d191ebb91dae2b1c3a8.jpg">
 </div>
   <br>
 <div> 
