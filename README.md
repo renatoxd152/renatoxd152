@@ -2,7 +2,6 @@
 
 <ul>
  <li>📖 Graduado em Análise e Desenvolvimento de Sistemas.</li>
- <li>🌱 Atualmente estou estudando banco de dados Oracle, Springboot.</li>
  <li>📖 Estou na área desde 2018 quando começei com um curso técnico de informática.</li>
  <li> 🎮 Gosto muito de jogar,assistir animes e séries.</li>
  <li> 🪐Sempre fui entusiasmado com o estudo do universo e das leis da físicas.</>
