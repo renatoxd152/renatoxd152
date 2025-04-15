@@ -8,9 +8,7 @@
 </div>
 
 ###
-
-<a href="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545">Gojo Satoru GIF</a>
-
+<img align="right" height="150" src="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545" />
 ###
 
 <div align="left">
