@@ -34,6 +34,7 @@
 <div align="left">
   <a href="mailto:renatomorillo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.linkedin.com/in/renato-morillo-b91a761b4/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://wa.me/5516997410581" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
   <a href="https://portfolio-pi-lime-61.vercel.app/" target="_blank">Portfólio</a>
 </div>
 
