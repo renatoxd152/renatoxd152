@@ -34,8 +34,8 @@
 <div align="left">
   <a href="mailto:renatomorillo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.linkedin.com/in/renato-morillo-b91a761b4/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://wa.me/5516997410581" target="_blank"><img src="https://img.shields.io/static/v1?message=whatsapp&logo=whatsapp&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35 alt="whatsapp logo"/></a>
-  <a href="https://portfolio-pi-lime-61.vercel.app/" target="_blank">Portfólio</a>
+  <a href="https://wa.me/5516997410581" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35 alt="whatsapp logo"/></a>
+  <a href="https://portfolio-pi-lime-61.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&label=&color=add8e6&logoColor=white&style=for-the-badge" height="35 alt="portfolio logo"/></a>
 </div>
 
 ###
