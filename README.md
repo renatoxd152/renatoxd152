@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545" />
+<img align="right" height="150" src="https://imgflip.com/gif/9qxd17" />
 
 ###
 
