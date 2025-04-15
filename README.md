@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9qxe2m"  />
+<img align="right" alt="" height="190px" src="./src/gif/gojo.gif">
 
 ###
 
