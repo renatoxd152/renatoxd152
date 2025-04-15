@@ -9,7 +9,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="10915596084714213545" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545">Gojo Satoru GIF</a>from <a href="https://tenor.com/search/gojo-gifs">Gojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545">Gojo Satoru GIF</a>
 
 ###
 
