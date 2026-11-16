@@ -28,10 +28,6 @@ Atualmente, estou aprofundando meus conhecimentos no ecossistema **Java e Spring
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
