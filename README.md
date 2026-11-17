@@ -34,7 +34,6 @@ Atualmente, estou aprofundando meus conhecimentos no ecossistema **Java e Spring
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=renatoxd152&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoxd152&layout=compact&theme=tokyonight" />
 </p>
----
 
 ## 📫 Entre em contato
 
